@@ -1,6 +1,6 @@
-# Transfer Data Between Middlewares
+# Transferring Data Between Middlewares
 There are 4 approaches:
-- Request Headers
-- HttpContext Items
-- HttpContext Features
-- Scoped Services!
+- **Request Headers**
+- **HttpContext Items**
+- **HttpContext Features**
+- **Scoped Services!**
